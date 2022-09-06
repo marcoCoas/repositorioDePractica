@@ -1,3 +1,4 @@
-Este es mi primer archivo de texto y el cual 
-me sirve para practicar como guardar y crear Git
+Este es mi primer archivo de texto y en el cual 
+me sirve para poder practicar y saber guardar en Git
 Ademas para poder editar los archivo.
+Toda las veces que queramos.
