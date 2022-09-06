@@ -1,2 +1,3 @@
 Este es mi primer archivo de texto y el cual 
 me sirve para practicar como guardar y crear Git
+Ademas para poder editar los archivo.
