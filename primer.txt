@@ -2,3 +2,5 @@ Este es mi primer archivo de texto y en el cual
 me sirve para poder practicar y saber guardar en Git
 Ademas podemos editar los archivo.
 Toda las veces que nostros queramos.
+Ahora, que hemos guardao bien. y entendemos el uso del Comando reset. 
+Podemos avanzar.
