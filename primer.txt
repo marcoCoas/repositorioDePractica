@@ -6,3 +6,4 @@ Ahora, que hemos guardao bien. y entendemos el uso del Comando reset.
 Podemos avanzar.
 
 Estamos probando ahora, el cambiar de rama.
+Vamos ah hacer otro cambio y poder guardarlo y asi practicar mejor
